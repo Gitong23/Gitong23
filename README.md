@@ -9,7 +9,7 @@ Former Civil Engineer
 I decide to change my career path to Software Developer. I've been learning coding in Bootcamp.
 
 * 🌍  I'm based in Bangkok,Thailand
-* 🖥️  See my portfolio at [Karn's portfolio webpage](http://google.com)
+* 🖥️  See my portfolio at [Karn's portfolio webpage](http://gitong23.github.io)
 * ✉️  You can contact me at [gitong23@gmail.com](mailto:gitong23@gmail.com)
 * 🧠  I'm learning React.js
 
