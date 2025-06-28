@@ -3,13 +3,11 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Karn Kraiket
 =============================
 
-## 🚀 About Me
-
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZsNTVvbXU3M3A5YjBleHUwNm4zOWl0ZHh3cnJqOW14ODBuMnJucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FQ8vWwIkUVqll3dW3w/giphy.gif" width="200" height="200"/>
 </div>
 
-
+### 🚀 About Me
 I'm a **Full-Stack/Backend Developer** with **2+ years of experience** building scalable web applications and backend systems. Currently working as a **Backend Developer**,I develop high-performance microservices and optimize system architecture.
 
 🌱 **Passionate about:** Solving complex problems, taking ownership, and continuously learning in fast-paced startup environments
